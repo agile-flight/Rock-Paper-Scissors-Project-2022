@@ -11,7 +11,7 @@ PURPOSE:
 Game
 
 DATE OF CREATION:
-Sometime 2020
+2022
 
 HOW TO PLAY:
 Make sure to have python installed. Run the file in Windows terminal using python keyword 
