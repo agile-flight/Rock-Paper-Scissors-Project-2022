@@ -1,14 +1,13 @@
------------------------------------------------------------------------------------------
-For my Introduction to Computer Science class, I had to create a Rock Paper Scissors game 
-with extended features in Python. 
-
+---------------------------------------------------------------------------------------------------------------------------
+For my Introduction to Computer Science class, I had to create a Rock Paper Scissors game with extended features in Python. 
+---------------------------------------------------------------------------------------------------------------------------
 
 
 AUTHOR:
 agile-flight
 
 PURPOSE:
-Game
+Game that shows beginner-level proficiency in Python.
 
 DATE OF CREATION:
 2022
